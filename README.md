@@ -6,6 +6,10 @@ My documentation from the KodeKloud 100 Days of DevOps Challenge. Each md file c
 
 100 days of hands-on DevOps practice: Linux, Git, containers, orchestration, CI/CD, IaC, cloud, and scripting. Every folder is a self-contained writeup of that day's task.
 
+## Status
+
+On-going
+
 ## Table of Contents
 
 | No. | Task                                        | Topic                                 | Link                                                        |
