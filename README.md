@@ -14,7 +14,7 @@ On-going
 
 | No. | Task                                        | Topic                                 | Link                                                        |
 | --- | ------------------------------------------- | ------------------------------------- | ----------------------------------------------------------- |
-| 001 | linux-user-setup-with-non-interactive-shell | '#bash'                               | [Day 01](001-linux-user-setup-with-non-interactive-shell)   |
+| 001 | linux-user-setup-with-non-interactive-shell | '#bash'                               | [Day 01](/kodekloud-100-days-of-devops/001-linux-user-setup-with-non-interactive-shell)   |
 | 002 | temporary-user-setup-with-expiry            | #bash                                 | [Day 02](002-temporary-user-setup-with-expiry)              |
 | 003 | secure-root-ssh-access                      | #bash #ssh                            | [Day 03](003-secure-root-ssh-access)                        |
 | 004 | script-execution-permissions                | #bash #scrips                         | [Day 04](004-script-execution-permissions)                  |
